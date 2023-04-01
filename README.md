@@ -10,5 +10,4 @@
 
  3. Open the editor terminal and run this command ->  streamlit run app.py
  
- # Enjoy
 
